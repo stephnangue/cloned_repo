@@ -1,1 +1,1 @@
-Ce depôt est à cloné dans le cadre du LAB sur Git
+Ce depôt est à cloner dans le cadre du LAB sur Git.
